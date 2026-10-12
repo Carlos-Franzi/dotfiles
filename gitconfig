@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carlosfranzi07@gmail.com
+	name = Carlos Franzi
